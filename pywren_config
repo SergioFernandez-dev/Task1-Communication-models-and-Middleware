@@ -1,0 +1,13 @@
+pywren:
+    storage_bucket: deposito-willy
+
+ibm_cf:
+    endpoint: https://eu-gb.functions.cloud.ibm.com
+    namespace: guillem.marti@estudiants.urv.cat_dev
+    api_key: 0de3b9df-9eb9-43c4-9a12-f00785cd8fcc:IeCr4NFmzOwVGaiAy2duzVcJexeI4308nKo5E9azd3JkDmDx76oFp4041LIGw7yD
+ 
+ibm_cos:
+    endpoint: https://s3.eu-de.cloud-object-storage.appdomain.cloud
+    private_endpoint: https://s3.private.eu-de.cloud-object-storage.appdomain.cloud
+    access_key: 63fc42a3029d486f80d1ae95cd662d71
+    secret_key: c8ac377a86631e98d00da6976e5d7e3dd85d1773c3eb9b86
